@@ -1,6 +1,6 @@
 # Reporte Laboratorio 1
 + Ana Laura Tschen 221645
-+
++ Karen Pineda 231132
 
 ## Datos de la otra pareja
 +
