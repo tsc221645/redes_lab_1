@@ -3,8 +3,8 @@
 + Karen Pineda 231132
 
 ## Datos de la otra pareja
-+
-+ 
++ Pablo Méndez
++ Carolina
 
 ## Preguntas
 
@@ -32,4 +32,12 @@ R: Las dificultades que involucra enviar un mensaje de forma empaquetada son el 
 ![alt text](image-3.png)
 
 ### 3.3 Conmutación de Mensajes
-- Nota: esto lo terminaremos el fin de semana debido a que no encontramos pareja
+
++ **¿Qué posibilidades incluye la introducción de un conmutador en el sistema?**
+El conmutador puede servir como un regulador o elemento que dirige los mensajes, lo cual puede mejorar la comunicación entre las personas, ya que existe más orden. Pero también podría traer dificultades como saturación si se envian mensajes al mismo tiempo o pérdida de la integridad de los datos ya que podria llegarle un mensaje a la persona equivocada si no se define correctamente un protocolo de comunicación.
+
++ **¿Qué ventajas/desventajas se tienen al momento de agregar más conmutadores al sistema?**
+Si se agregan más conmutadores se podría ampliar la capacidad de comunicación, es decir, poder comunicarse con más clientes a la vez y reducir la carga para el conmutador, sin embargo, el punto clave es la organización o administración que se tenga en el proceso, ya que si no se hace bien podría ocurrir la pérdida de información.
+
++ **Forma definida para comunicarse**
+Para comunicarnos de forma ordenada y evitar confusiones, definimos que cada cliente debía identificarse ante el conmutador indicando si era el emisor o el receptor mediante las iniciales de su nombre. Por ejemplo, si Ana era la emisora, se identificaría como AE (A = inicial del nombre, E = emisor), mientras que el receptor se identificaría con la inicial de su nombre seguida de R. Además, para evitar sobrecargar al conmutador, cada cliente tendría un turno o un tiempo de espera para enviar sus mensajes, permitiendo que el conmutador los procesara y los entregara correctamente antes de recibir nuevos. En dado caso el conmutador no estuviera listo para recibir mensajes, tendría que indicarlo enviando un mensaje a todos los clientes.
